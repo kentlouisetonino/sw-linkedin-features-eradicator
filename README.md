@@ -9,7 +9,6 @@
 | `Supported Functionalities` | `Implemented` |
 | --------------------------- | ----------- |
 | `LinkedIn Feeds` | ✅ |
-| `...` | `...` |
 
 
 <br />
